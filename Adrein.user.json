@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "679e026978c893ab8c46b799"
+  },
+  "name": "Adrein",
+  "email": "fivebrothers1213@gmail.com",
+  "age": 21,
+  "password": "1234",
+  "hobby": [
+    "gaming",
+    "learning"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e033978c893ab8c46b79a"
+  },
+  "name": "Adrein2",
+  "email": "fivebrothers1213@gmail.com",
+  "age": 21,
+  "password": "5678",
+  "hobby": [
+    "gaming",
+    "Tester"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ab5"
+  },
+  "title": "The Silent Patient",
+  "author": "Alex Michaelides",
+  "pages": 336,
+  "rating": 8,
+  "genres": [
+    "thriller",
+    "psychological"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ab6"
+  },
+  "title": "The Maidens",
+  "author": "Alex Michaelides",
+  "pages": 352,
+  "rating": 7,
+  "genres": [
+    "mystery",
+    "thriller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ab7"
+  },
+  "title": "Harry Potter and the Sorcerer’s Stone",
+  "author": "J.K. Rowling",
+  "pages": 309,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "magic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ab8"
+  },
+  "title": "Harry Potter and the Chamber of Secrets",
+  "author": "J.K. Rowling",
+  "pages": 341,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "magic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ab9"
+  },
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "author": "J.K. Rowling",
+  "pages": 435,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "adventure"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299aba"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "pages": 310,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "adventure"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299abb"
+  },
+  "title": "The Fellowship of the Ring",
+  "author": "J.R.R. Tolkien",
+  "pages": 423,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "epic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299abc"
+  },
+  "title": "The Two Towers",
+  "author": "J.R.R. Tolkien",
+  "pages": 352,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "epic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299abd"
+  },
+  "title": "The Return of the King",
+  "author": "J.R.R. Tolkien",
+  "pages": 416,
+  "rating": 10,
+  "genres": [
+    "fantasy",
+    "epic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299abe"
+  },
+  "title": "A Game of Thrones",
+  "author": "George R.R. Martin",
+  "pages": 694,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "political"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299abf"
+  },
+  "title": "A Clash of Kings",
+  "author": "George R.R. Martin",
+  "pages": 768,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "war"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ac0"
+  },
+  "title": "A Storm of Swords",
+  "author": "George R.R. Martin",
+  "pages": 973,
+  "rating": 10,
+  "genres": [
+    "fantasy",
+    "war"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ac1"
+  },
+  "title": "The Shining",
+  "author": "Stephen King",
+  "pages": 447,
+  "rating": 9,
+  "genres": [
+    "horror",
+    "psychological"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ac2"
+  },
+  "title": "It",
+  "author": "Stephen King",
+  "pages": 1138,
+  "rating": 9,
+  "genres": [
+    "horror",
+    "thriller"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ac3"
+  },
+  "title": "Misery",
+  "author": "Stephen King",
+  "pages": 320,
+  "rating": 8,
+  "genres": [
+    "thriller",
+    "psychological"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ac4"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchett",
+  "pages": 300,
+  "rating": 7,
+  "genres": [
+    "fantasy",
+    "magic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ac5"
+  },
+  "title": "Guards! Guards!",
+  "author": "Terry Pratchett",
+  "pages": 384,
+  "rating": 8,
+  "genres": [
+    "fantasy",
+    "humor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ac6"
+  },
+  "title": "Mort",
+  "author": "Terry Pratchett",
+  "pages": 295,
+  "rating": 8,
+  "genres": [
+    "fantasy",
+    "dark humor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ac7"
+  },
+  "title": "Good Omens",
+  "author": "Terry Pratchett",
+  "pages": 412,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "comedy"
+  ]
+},
+{
+  "_id": {
+    "$oid": "679e09894acfa8eaae299ac8"
+  },
+  "title": "American Gods",
+  "author": "Neil Gaiman",
+  "pages": 635,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "mythology"
+  ]
+}]
