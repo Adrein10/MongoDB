@@ -251,7 +251,7 @@
   },
   "title": "Mort",
   "author": "Terry Pratchett",
-  "pages": 295,
+  "pages": 290,
   "rating": 8,
   "genres": [
     "fantasy",
@@ -282,5 +282,286 @@
   "genres": [
     "fantasy",
     "mythology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb75293804918469"
+  },
+  "title": "The Silent Patient",
+  "author": {
+    "name": "Alex Michaelides",
+    "nationality": "British-Cypriot",
+    "birthYear": 1977
+  },
+  "pages": 336,
+  "rating": 9,
+  "genres": [
+    "thriller",
+    "psychological"
+  ],
+  "reviews": [
+    {
+      "name": "John",
+      "body": "Amazing thriller with a shocking twist!"
+    },
+    {
+      "name": "Sara",
+      "body": "Couldn't put it down."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb7529380491846a"
+  },
+  "title": "The Maidens",
+  "author": {
+    "name": "Alex Michaelides",
+    "nationality": "British-Cypriot",
+    "birthYear": 1977
+  },
+  "pages": 352,
+  "rating": 8,
+  "genres": [
+    "thriller",
+    "mystery"
+  ],
+  "reviews": [
+    {
+      "name": "Mike",
+      "body": "A gripping mystery with dark secrets."
+    },
+    {
+      "name": "Lily",
+      "body": "Loved the psychological depth."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb7529380491846b"
+  },
+  "title": "Gone Girl",
+  "author": {
+    "name": "Gillian Flynn",
+    "nationality": "American",
+    "birthYear": 1971
+  },
+  "pages": 415,
+  "rating": 9,
+  "genres": [
+    "thriller",
+    "mystery",
+    "psychological"
+  ],
+  "reviews": [
+    {
+      "name": "Emma",
+      "body": "Brilliantly twisted!"
+    },
+    {
+      "name": "Tom",
+      "body": "Unpredictable and thrilling."
+    }
+  ],
+  "name": "Gillian Fly"
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb7529380491846c"
+  },
+  "title": "Sharp Objects",
+  "author": {
+    "name": "Gillian Flynn",
+    "nationality": "American",
+    "birthYear": 1971
+  },
+  "pages": 254,
+  "rating": 8,
+  "genres": [
+    "thriller",
+    "psychological",
+    "crime"
+  ],
+  "reviews": [
+    {
+      "name": "Jack",
+      "body": "Dark and disturbing."
+    },
+    {
+      "name": "Anna",
+      "body": "A haunting story."
+    },
+    {
+      "name": "John",
+      "body": "An amazing story."
+    }
+  ],
+  "name": "Gillian Fly"
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb7529380491846d"
+  },
+  "title": "Behind Closed Doors",
+  "author": {
+    "name": "B.A. Paris",
+    "nationality": "British",
+    "birthYear": 1958
+  },
+  "pages": 352,
+  "rating": 8,
+  "genres": [
+    "thriller",
+    "psychological"
+  ],
+  "reviews": [
+    {
+      "name": "Nina",
+      "body": "Terrifying yet addictive."
+    },
+    {
+      "name": "Leo",
+      "body": "A chilling villain!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb7529380491846e"
+  },
+  "title": "The Breakdown",
+  "author": {
+    "name": "B.A. Paris",
+    "nationality": "British",
+    "birthYear": 1958
+  },
+  "pages": 336,
+  "rating": 7,
+  "genres": [
+    "thriller",
+    "mystery"
+  ],
+  "reviews": [
+    {
+      "name": "Chris",
+      "body": "A slow burn but worth it."
+    },
+    {
+      "name": "Mia",
+      "body": "Loved the suspense!"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb7529380491846f"
+  },
+  "title": "Before I Go to Sleep",
+  "author": {
+    "name": "S. J. Watson",
+    "nationality": "British",
+    "birthYear": 1971
+  },
+  "pages": 368,
+  "rating": 8,
+  "genres": [
+    "thriller",
+    "psychological",
+    "suspense"
+  ],
+  "reviews": [
+    {
+      "name": "Jake",
+      "body": "A unique concept, well executed."
+    },
+    {
+      "name": "Sophia",
+      "body": "A bit slow but the ending was great."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb75293804918470"
+  },
+  "title": "Final Girls",
+  "author": {
+    "name": "Riley Sager",
+    "nationality": "American",
+    "birthYear": 1978
+  },
+  "pages": 352,
+  "rating": 8,
+  "genres": [
+    "thriller",
+    "horror",
+    "mystery"
+  ],
+  "reviews": [
+    {
+      "name": "Ryan",
+      "body": "A must-read for thriller fans!"
+    },
+    {
+      "name": "Zoe",
+      "body": "Kept me on edge the whole time."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb75293804918471"
+  },
+  "title": "Home Before Dark",
+  "author": {
+    "name": "Riley Sager",
+    "nationality": "American",
+    "birthYear": 1978
+  },
+  "pages": 400,
+  "rating": 9,
+  "genres": [
+    "thriller",
+    "horror"
+  ],
+  "reviews": [
+    {
+      "name": "Ethan",
+      "body": "Creepy and thrilling!"
+    },
+    {
+      "name": "Olivia",
+      "body": "Loved the eerie atmosphere."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ab2b5afb75293804918472"
+  },
+  "title": "The Girl on the Train",
+  "author": {
+    "name": "Paula Hawkins",
+    "nationality": "British",
+    "birthYear": 1972
+  },
+  "pages": 325,
+  "rating": 9,
+  "genres": [
+    "thriller",
+    "mystery",
+    "psychological"
+  ],
+  "reviews": [
+    {
+      "name": "Sam",
+      "body": "A fantastic mystery with deep characters."
+    },
+    {
+      "name": "Ella",
+      "body": "Couldn’t stop reading!"
+    }
   ]
 }]
