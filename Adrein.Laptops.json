@@ -1,0 +1,448 @@
+[{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f015"
+  },
+  "laptopName": "Dell Inspiron 14",
+  "costPrice": 400,
+  "sellPrice": 550
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f016"
+  },
+  "laptopName": "HP Pavilion 15",
+  "costPrice": 500,
+  "sellPrice": 650
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f017"
+  },
+  "laptopName": "Lenovo ThinkPad X1",
+  "costPrice": 900,
+  "sellPrice": 1200
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f018"
+  },
+  "laptopName": "Apple MacBook Air",
+  "costPrice": 950,
+  "sellPrice": 1300
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f019"
+  },
+  "laptopName": "Acer Aspire 5",
+  "costPrice": 350,
+  "sellPrice": 500
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f01a"
+  },
+  "laptopName": "Asus ZenBook 14",
+  "costPrice": 700,
+  "sellPrice": 900
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f01b"
+  },
+  "laptopName": "Microsoft Surface Laptop 4",
+  "costPrice": 1100,
+  "sellPrice": 1400
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f01c"
+  },
+  "laptopName": "Razer Blade 15",
+  "costPrice": 1500,
+  "sellPrice": 1900
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f01d"
+  },
+  "laptopName": "HP Elite Dragonfly",
+  "costPrice": 1200,
+  "sellPrice": 1600
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f01e"
+  },
+  "laptopName": "Alienware M15",
+  "costPrice": 1300,
+  "sellPrice": 1700
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f01f"
+  },
+  "laptopName": "Samsung Galaxy Book Pro",
+  "costPrice": 750,
+  "sellPrice": 950
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f020"
+  },
+  "laptopName": "Lenovo Legion 5",
+  "costPrice": 800,
+  "sellPrice": 1000
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f021"
+  },
+  "laptopName": "Asus TUF Gaming F15",
+  "costPrice": 700,
+  "sellPrice": 900
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f022"
+  },
+  "laptopName": "MacBook Pro 16",
+  "costPrice": 1800,
+  "sellPrice": 2200
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f023"
+  },
+  "laptopName": "Dell Latitude 7420",
+  "costPrice": 1200,
+  "sellPrice": 1500
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f024"
+  },
+  "laptopName": "Microsoft Surface Book 3",
+  "costPrice": 1500,
+  "sellPrice": 1900
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f025"
+  },
+  "laptopName": "Lenovo IdeaPad 3",
+  "costPrice": 300,
+  "sellPrice": 450
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f026"
+  },
+  "laptopName": "Asus VivoBook 15",
+  "costPrice": 450,
+  "sellPrice": 600
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f027"
+  },
+  "laptopName": "HP Omen 15",
+  "costPrice": 1000,
+  "sellPrice": 1300
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f028"
+  },
+  "laptopName": "Acer Predator Helios 300",
+  "costPrice": 1200,
+  "sellPrice": 1600
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f029"
+  },
+  "laptopName": "Toshiba Dynabook Tecra",
+  "costPrice": 650,
+  "sellPrice": 850
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f02a"
+  },
+  "laptopName": "MSI GE66 Raider",
+  "costPrice": 1300,
+  "sellPrice": 1700
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f02b"
+  },
+  "laptopName": "Asus ROG Strix G15",
+  "costPrice": 1100,
+  "sellPrice": 1400
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f02c"
+  },
+  "laptopName": "HP Spectre x360",
+  "costPrice": 1100,
+  "sellPrice": 1450
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f02d"
+  },
+  "laptopName": "LG Gram 17",
+  "costPrice": 1400,
+  "sellPrice": 1700
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f02e"
+  },
+  "laptopName": "Apple MacBook Pro 13",
+  "costPrice": 1200,
+  "sellPrice": 1500
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f02f"
+  },
+  "laptopName": "Dell XPS 13",
+  "costPrice": 1300,
+  "sellPrice": 1700
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f030"
+  },
+  "laptopName": "Samsung Notebook 9 Pro",
+  "costPrice": 950,
+  "sellPrice": 1200
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f031"
+  },
+  "laptopName": "HP Envy 13",
+  "costPrice": 850,
+  "sellPrice": 1100
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f032"
+  },
+  "laptopName": "Acer Swift 3",
+  "costPrice": 600,
+  "sellPrice": 800
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f033"
+  },
+  "laptopName": "Lenovo Yoga 9i",
+  "costPrice": 1300,
+  "sellPrice": 1600
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f034"
+  },
+  "laptopName": "Razer Blade Stealth 13",
+  "costPrice": 1300,
+  "sellPrice": 1700
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f035"
+  },
+  "laptopName": "Alienware Area-51m",
+  "costPrice": 2000,
+  "sellPrice": 2500
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f036"
+  },
+  "laptopName": "Lenovo ThinkPad T14",
+  "costPrice": 950,
+  "sellPrice": 1250
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f037"
+  },
+  "laptopName": "Asus Chromebook Flip",
+  "costPrice": 400,
+  "sellPrice": 550
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f038"
+  },
+  "laptopName": "Toshiba Satellite Pro",
+  "costPrice": 650,
+  "sellPrice": 850
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f039"
+  },
+  "laptopName": "HP ProBook 450 G7",
+  "costPrice": 600,
+  "sellPrice": 800
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f03a"
+  },
+  "laptopName": "Microsoft Surface Laptop Go",
+  "costPrice": 550,
+  "sellPrice": 750
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f03b"
+  },
+  "laptopName": "Acer Chromebook Spin 13",
+  "costPrice": 600,
+  "sellPrice": 800
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f03c"
+  },
+  "laptopName": "Dell Vostro 15",
+  "costPrice": 450,
+  "sellPrice": 600
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f03d"
+  },
+  "laptopName": "Apple MacBook Pro 14",
+  "costPrice": 1400,
+  "sellPrice": 1700
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f03e"
+  },
+  "laptopName": "Asus ZenBook Flip 14",
+  "costPrice": 850,
+  "sellPrice": 1100
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f03f"
+  },
+  "laptopName": "Lenovo ThinkPad L14",
+  "costPrice": 650,
+  "sellPrice": 850
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f040"
+  },
+  "laptopName": "HP EliteBook 840 G7",
+  "costPrice": 1000,
+  "sellPrice": 1300
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f041"
+  },
+  "laptopName": "Acer Aspire 7",
+  "costPrice": 700,
+  "sellPrice": 900
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f042"
+  },
+  "laptopName": "Dell Precision 3551",
+  "costPrice": 1200,
+  "sellPrice": 1500
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f043"
+  },
+  "laptopName": "MSI GS66 Stealth",
+  "costPrice": 1600,
+  "sellPrice": 2000
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f044"
+  },
+  "laptopName": "HP Pavilion x360",
+  "costPrice": 650,
+  "sellPrice": 850
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f045"
+  },
+  "laptopName": "Apple MacBook Pro 15",
+  "costPrice": 1700,
+  "sellPrice": 2100
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f046"
+  },
+  "laptopName": "Lenovo Legion Y540",
+  "costPrice": 900,
+  "sellPrice": 1200
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f047"
+  },
+  "laptopName": "Asus ROG Zephyrus G14",
+  "costPrice": 1500,
+  "sellPrice": 1900
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f048"
+  },
+  "laptopName": "Acer Nitro 5",
+  "costPrice": 900,
+  "sellPrice": 1150
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f049"
+  },
+  "laptopName": "MSI GS75 Stealth",
+  "costPrice": 1800,
+  "sellPrice": 2200
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f04a"
+  },
+  "laptopName": "Lenovo ThinkPad X1 Carbon",
+  "costPrice": 1100,
+  "sellPrice": 1500
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f04b"
+  },
+  "laptopName": "Dell G5 15",
+  "costPrice": 950,
+  "sellPrice": 1200
+},
+{
+  "_id": {
+    "$oid": "67add736a89d1ec65db8f04c"
+  },
+  "laptopName": "HP ZBook 15v",
+  "costPrice": 1250,
+  "sellPrice": 1600
+}]
